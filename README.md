@@ -14,10 +14,9 @@ Actualmente, mi enfoque se centra en complementar y llevar lo aprendido hacia el
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
   
 ## Herramientas
-Puedes comentar algunas de las herramientas que manejas vinculadas al testing de software. Por ejemplo:
-* SQL
 * Jira
 * MantisBT
+* SQL
 
 ## Libros
 * Introducción a las Pruebas de Sistemas de Información (3ra edición, 2024) - Federico Toledo
