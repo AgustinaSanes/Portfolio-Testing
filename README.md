@@ -1,9 +1,10 @@
 # Portfolio
 ## Sobre mí
-La sección **"Sobre mí"** es un extracto que se incluiremos al principio del Portfolio, para describir quién eres y cuáles son tus principales habilidades y aspiraciones, con el objetivo de capturar la atención de posibles reclutadores que podrían interesarse en ti. Puedes utilizar la misma de tu perfil en [LinkedIn](https://www.linkedin.com/) o tu CV.
+¡Hola! Soy Agustina y este es mi Portfolio de Testing.
+En este espacio destaco algunos de mis trabajos realizados para el curso Jóvenes a programar, junto a algunos proyectos en los que aplico herramientas complementarias como Jira y SQL.
+Actualmente, mi enfoque se centra en complementar y llevar lo aprendido hacia el entorno laboral, aplicado a un puesto de Tester Jr.
 
 ## Cursos
-Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Por ejemplo:
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
@@ -14,17 +15,14 @@ Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Po
   
 ## Herramientas
 Puedes comentar algunas de las herramientas que manejas vinculadas al testing de software. Por ejemplo:
-* Testlink
+* SQL
 * Jira
 * MantisBT
 
 ## Libros
-Puedes comentar algunos libros que has leído, que suman a tu formación en Testing y TI. Por ejemplo:
-* Introducción a las Pruebas de Sistemas de Información - Federico Toledo
+* Introducción a las Pruebas de Sistemas de Información (3ra edición, 2024) - Federico Toledo
 
 ## Mi trabajo
-Aquí puedes mostrar lo que ha sido tu trabajo como tester, publicando las diferentes entregas del taller, o trabajos de testing que hayas desarrollado por tu cuenta. Por ejemplo:
-
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i)
   * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv)
