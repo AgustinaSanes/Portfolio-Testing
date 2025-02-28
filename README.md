@@ -22,7 +22,15 @@ Actualmente, mi enfoque se centra en complementar y llevar lo aprendido hacia el
 * Introducción a las Pruebas de Sistemas de Información (3ra edición, 2024) - Federico Toledo
 
 ## Mi trabajo
+* **Testing**
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i)
   * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv)
   * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
+ 
+* **Jira**
+
+* **MantisBT**
+
+* **SQL Server Management Studio**
+
