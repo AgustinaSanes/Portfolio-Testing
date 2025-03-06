@@ -1,14 +1,14 @@
 # Portfolio
 ## Sobre mí
-* ¡Hola! Soy Agustina y este es mi Portfolio de Testing.
-* En este espacio destaco algunos de mis trabajos realizados para el curso Jóvenes a programar edición 2022, junto a algunos proyectos en los que aplico herramientas complementarias como Jira y SQL.
+¡Hola! Soy Agustina y este es mi Portfolio de Testing.
+En este espacio destaco algunos de mis trabajos realizados para el curso Jóvenes a programar edición 2022, junto a algunos proyectos en los que aplico herramientas complementarias como Jira y SQL.
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):** 
-  Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
+Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
   
 * **Jira desde cero - Coursera (9hs):**
-* Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
+Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
 
 ## Libros
 * Introducción a las Pruebas de Sistemas de Información (3ra edición, 2024) - Federico Toledo
