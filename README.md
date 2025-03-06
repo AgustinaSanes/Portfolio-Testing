@@ -24,7 +24,6 @@ Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regre
   * [Informe de pruebas](https://drive.google.com/file/d/1lH4gGiN-nXqnNHTcjGWYMGr0qq1L4pVf/view?usp=drive_link)
 
 * **Jira**
-Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
 
 * **SQL Server Management Studio**
 
