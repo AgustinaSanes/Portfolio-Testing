@@ -1,5 +1,5 @@
 # Portfolio
-## Sobre mía
+## Sobre mí
 ¡Hola! Soy Agustina y este es mi Portfolio de Testing.
 En este espacio destaco algunos de mis trabajos realizados para el curso Jóvenes a programar edición 2022, junto a algunos proyectos en los que aplico herramientas complementarias como Jira y SQL.
 
