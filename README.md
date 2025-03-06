@@ -11,7 +11,7 @@ En este espacio destaco algunos de mis trabajos realizados para el curso Jóvene
 
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
 
-  ## Libros
+## Libros
 * Introducción a las Pruebas de Sistemas de Información (3ra edición, 2024) - Federico Toledo
   
 ## Herramientas
