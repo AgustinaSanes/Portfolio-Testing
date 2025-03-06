@@ -23,7 +23,7 @@ Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regre
   * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1wYRSsDtDVJfgzhHtqcR1av8zLpqmoaIY/edit?gid=1289981371#gid=1289981371)
   * [Informe de pruebas](https://drive.google.com/file/d/1lH4gGiN-nXqnNHTcjGWYMGr0qq1L4pVf/view?usp=drive_link)
 
-* **Jira**
+* **Jira**:
 
-* **SQL Server Management Studio**
+* **SQL Server Management Studio**:
 
