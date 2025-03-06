@@ -19,7 +19,7 @@ Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
 
 ## Mi trabajo
 * **Testing**:
-[E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html)
+  * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html)
   * [Requerimientos y casos de uso](https://drive.google.com/file/d/1mvAi0AxNTIzqtmtW1kMfkGmrmeB_sR35/view?usp=drive_link)
   * [Particiones de equivalencia](https://docs.google.com/spreadsheets/d/1TmCdA6rjQYFIzqWZc6W6LKU-TRtHzJCNRM7CKV68vxg/edit?gid=119180606#gid=119180606)
   * [Casos de prueba](https://docs.google.com/spreadsheets/d/1xQynF02ZDBz-nKh1kdPjzk7NlnPmuC8v/edit?gid=888962955#gid=888962955)
