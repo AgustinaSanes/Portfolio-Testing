@@ -5,7 +5,7 @@
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):** 
-* Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
+  Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
   
 * **Jira desde cero - Coursera (9hs):**
 * Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
