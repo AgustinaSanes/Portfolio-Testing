@@ -10,13 +10,13 @@ En este espacio destaco algunos de mis trabajos realizados para el curso Jóvene
 * **Jira desde cero - Coursera (9hs):**
 
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
+
+  ## Libros
+* Introducción a las Pruebas de Sistemas de Información (3ra edición, 2024) - Federico Toledo
   
 ## Herramientas
 * Jira
 * SQL
-
-## Libros
-* Introducción a las Pruebas de Sistemas de Información (3ra edición, 2024) - Federico Toledo
 
 ## Mi trabajo
 * **Testing**
