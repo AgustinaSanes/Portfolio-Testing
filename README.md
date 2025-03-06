@@ -1,7 +1,7 @@
 # Portfolio
 ## Sobre mía
 ¡Hola! Soy Agustina y este es mi Portfolio de Testing.
-En este espacio destaco algunos de mis trabajos realizados para el curso Jóvenes a programar edición 2022, junto  algunos proyectos en los que aplico herramientas complementarias como Jira y SQL.
+En este espacio destaco algunos de mis trabajos realizados para el curso Jóvenes a programar edición 2022, junto a algunos proyectos en los que aplico herramientas complementarias como Jira y SQL.
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
@@ -28,8 +28,6 @@ En este espacio destaco algunos de mis trabajos realizados para el curso Jóvene
   * [Informe de pruebas](https://drive.google.com/file/d/1lH4gGiN-nXqnNHTcjGWYMGr0qq1L4pVf/view?usp=drive_link)
 
 * **Jira**
-
-* **MantisBT**
 
 * **SQL Server Management Studio**
 
