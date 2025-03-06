@@ -21,8 +21,10 @@ En este espacio destaco algunos de mis trabajos realizados para el curso Jóvene
 ## Mi trabajo
 * **Testing**
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i)
-  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv)
+  * [Especificación de requerimientos y casos de uso](
+  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1xQynF02ZDBz-nKh1kdPjzk7NlnPmuC8v/edit?gid=888962955#gid=888962955)
+  * [Particiones de equivalencia](https://docs.google.com/spreadsheets/d/1TmCdA6rjQYFIzqWZc6W6LKU-TRtHzJCNRM7CKV68vxg/edit?gid=119180606#gid=119180606))
+  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1wYRSsDtDVJfgzhHtqcR1av8zLpqmoaIY/edit?gid=1289981371#gid=1289981371)
   * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
  
 * **Jira**
