@@ -25,8 +25,7 @@ En este espacio destaco algunos de mis trabajos realizados para el curso Jóvene
   * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1xQynF02ZDBz-nKh1kdPjzk7NlnPmuC8v/edit?gid=888962955#gid=888962955)
   * [Particiones de equivalencia](https://docs.google.com/spreadsheets/d/1TmCdA6rjQYFIzqWZc6W6LKU-TRtHzJCNRM7CKV68vxg/edit?gid=119180606#gid=119180606))
   * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1wYRSsDtDVJfgzhHtqcR1av8zLpqmoaIY/edit?gid=1289981371#gid=1289981371)
-  * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
- 
+  * [Informe de pruebas](https://drive.google.com/file/d/1lH4gGiN-nXqnNHTcjGWYMGr0qq1L4pVf/view?usp=drive_link)
 * **Jira**
 
 * **MantisBT**
