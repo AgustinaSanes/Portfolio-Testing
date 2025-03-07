@@ -25,6 +25,8 @@ Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regre
   * [Informe de pruebas](https://drive.google.com/file/d/1lH4gGiN-nXqnNHTcjGWYMGr0qq1L4pVf/view?usp=drive_link)
 
 * **Jira**:
+  * [Proyecto E-Mercado](https://asanes.atlassian.net/jira/software/projects/EM/boards/3/backlog?epics=visible&atlOrigin=eyJpIjoiODZkNDJiYjQ4MDBiNDk0N2JmOTc1N2YyNGNkYjNhYmIiLCJwIjoiaiJ9)
+  
 
 * **SQL Server Management Studio**:
 
