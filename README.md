@@ -1,8 +1,8 @@
 # Portfolio
 ## Sobre mí
-¡Hola! Soy Agustina y este es mi Portfolio de Testing.
-En este espacio destaco algunos de mis trabajos realizados para el curso Jóvenes a programar edición 2022, junto a algunos proyectos en los que aplico herramientas complementarias como Jira y SQL. 
-Actualmente, me encuentro cursando la Licenciatura en Tecnologías de la Información en la Universidad Tecnológica del Uruguay (UTEC).
+¡Hola! Soy Agustina, estudiante de la Licenciatura en Tecnologías de la Información en la Universidad Tecnológica del Uruguay (UTEC).
+En este espacio presento mi Portfolio de Testing destacando algunos de mis trabajos realizados para el curso Jóvenes a programar edición 2022, junto a algunos proyectos en los que aplico herramientas complementarias como Jira y SQL. 
+Actualmente, me encuentro cursando la 
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):** 
