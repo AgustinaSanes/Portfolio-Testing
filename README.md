@@ -12,8 +12,9 @@ Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regre
   
 ## Herramientas
 * Jira
+* Postman
 * SQL
-
+  
 ## Mi trabajo
 * **Testing**:
   * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html)
@@ -25,6 +26,9 @@ Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regre
 
 * **Jira**:
   * [Proyecto E-Mercado](https://asanes.atlassian.net/jira/software/projects/EM/boards/3/backlog?epics=visible&atlOrigin=eyJpIjoiODZkNDJiYjQ4MDBiNDk0N2JmOTc1N2YyNGNkYjNhYmIiLCJwIjoiaiJ9)
+ 
+* **Postman**:
+  * [Pruebas de Api](https://web.postman.co/workspace/Pr%25C3%25A1ctica-1~e07f030b-b6d4-4886-8933-7e71ec1d6f17/collection/43029111-ca215b91-9b0b-41f2-ae88-36dbcd1447d8)
   
 
 * **SQL Server Management Studio**:
